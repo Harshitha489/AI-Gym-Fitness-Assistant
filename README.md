@@ -48,20 +48,6 @@ GitHub (Version Control)
 
 VS Code
 
-## Project Structure
-AI-Gym-Fitness-Assistant/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│
-├── supabase/
-├── package.json
-├── index.html
-├── README.md
-
 ## Installation & Execution
 
 ### Clone the repository:
@@ -101,10 +87,14 @@ Easy scalability
 
 
 ## 🤖 AI Chat Assistant
-![Chat]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2026-01-15 154132.png")
+<img width="1869" height="866" alt="Screenshot 2026-01-15 154132" src="https://github.com/user-attachments/assets/9dadb999-c5e1-446d-93b8-bfa2c54aec99" />
+
 
 ## 🏋️‍♂️ Workout Dashboard
-![Workout]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2026-01-15 092012.png")
+<img width="1867" height="869" alt="Screenshot 2026-01-15 091904" src="https://github.com/user-attachments/assets/f2ac915e-3494-4e42-a468-836f0085f91f" />
+<img width="1869" height="870" alt="Screenshot 2026-01-15 092012" src="https://github.com/user-attachments/assets/3f9586fc-de17-4d7f-9ff9-0ffa30fffc25" />
+
+
 
 ## Learning Outcomes
 
