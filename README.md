@@ -95,6 +95,15 @@ Secure authentication using Supabase
 
 Easy scalability
 
+## Project screenshots
+### Home page
+![Home]("C:\Users\harsh\OneDrive\Pictures\fitnesshome.png")
+### Login
+![Login]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2026-01-15 090854.png")
+### Dashboard
+![Dashboard]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2026-01-15 091904.png")
+("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2026-01-15 092012.png")
+
 ## Learning Outcomes
 
 Practical experience with AI-based applications
