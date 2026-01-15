@@ -97,7 +97,8 @@ Easy scalability
 
 ## Project screenshots
 ## 🏠 Home Page
-![Home]("C:\Users\harsh\OneDrive\Pictures\fitnesshome.png")
+<img width="1525" height="868" alt="fitnesshome" src="https://github.com/user-attachments/assets/93347e8c-f3c7-493b-8a11-540dcbc2c966" />
+
 
 ## 🤖 AI Chat Assistant
 ![Chat]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2026-01-15 154132.png")
